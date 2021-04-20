@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "156416813930",
+    "firebase_url": "https://moneymanager-1c39a.firebaseio.com",
+    "project_id": "moneymanager-1c39a",
+    "storage_bucket": "moneymanager-1c39a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156416813930:android:5f6f578bf88ea8819b1313",
+        "android_client_info": {
+          "package_name": "mx.fenrir.moneymanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156416813930-jodb6h8l4atqphe2gof9d87sjeij4aca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJmVcGsBDg0NSwEdqX3FWCWkQlz0OcRG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156416813930-jodb6h8l4atqphe2gof9d87sjeij4aca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

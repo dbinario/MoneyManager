@@ -1,0 +1,136 @@
+<resources>
+
+    <string name="app_name">Administrador de Dinero</string>
+    <string name="buttonGuardarMov">Guardar</string>
+    <string name="buttonActualizarMov">Actualizar</string>
+
+
+    <string name="egresosing">Egreso</string>
+
+    <!-- Categorias de Ingresos-->
+
+    <string name="IngresoSalario">Salario</string>
+    <string name="IngresoPremios">Premios</string>
+    <string name="IngresoVenta">Venta</string>
+    <string name="IngresoOtros">Otros</string>
+
+    <!-- Categorias de Egresos-->
+
+    <string name="Egresocomida">Comida</string>
+    <string name="EgresoTransporte">Transporte</string>
+    <string name="EgresoRopa">Ropa</string>
+    <string name="EgresoSalud">Salud</string>
+    <string name="EgresoCultura">Cultura</string>
+    <string name="EgresoEntretenimiento">Entretenimiento</string>
+    <string name="EgresoRegalos">Regalos</string>
+    <string name="EgresoGastosPropios">Gastos Propios</string>
+    <string name="EgresoEducacion">Educacion</string>
+    <string name="EgresoRenta">Renta</string>
+
+
+    <string name="tipoMov">Movimiento</string>
+    <string name="ingreso">Ingreso</string>
+    <string name="egreso">Gasto</string>
+
+
+    <string name="tvCategoria">Categoria</string>
+    <string name="tvImporte">Importe</string>
+    <string name="guardarMov">Guardado de Manera Correcta</string>
+
+    <!-- para los TextView-->
+
+    <string name="ingresos">Ingresos</string>
+    <string name="egresos">Egresos</string>
+    <string name="saldo">Saldo</string>
+
+    <!-- para el menu-->
+
+    <string name="MenuPrincipal">Principal</string>
+    <string name="MenuGraficos">Graficos</string>
+
+    <!-- para el select de graficos-->
+
+    <string name="ingresos_vs_egresos">Ingresos vs Egresos</string>
+
+    <string-array name="meses">
+        <item>Enero</item>
+        <item>Febrero</item>
+        <item>Marzo</item>
+        <item>Abril</item>
+        <item>Mayo</item>
+        <item>Junio</item>
+        <item>Julio</item>
+        <item>Agosto</item>
+        <item>Septiembre</item>
+        <item>Octubre</item>
+        <item>Noviembre</item>
+        <item>Diciembre</item>
+    </string-array>
+
+
+    <string-array name="mesesCortos">
+        <item>ENE</item>
+        <item>FEB</item>
+        <item>MAR</item>
+        <item>ABR</item>
+        <item>MAY</item>
+        <item>JUN</item>
+        <item>JUL</item>
+        <item>AGO</item>
+        <item>SEP</item>
+        <item>OCT</item>
+        <item>NOV</item>
+        <item>DIC</item>
+    </string-array>
+
+
+    <string name="mesC0">ENE</string>
+    <string name="mesC1">FEB</string>
+    <string name="mesC2">MAR</string>
+    <string name="mesC3">ABR</string>
+    <string name="mesC4">MAY</string>
+    <string name="mesC5">JUN</string>
+    <string name="mesC6">JUL</string>
+    <string name="mesC7">AGO</string>
+    <string name="mesC8">SEP</string>
+    <string name="mesC9">OCT</string>
+    <string name="mesC10">NOV</string>
+    <string name="mesC11">DIC</string>
+    <string name="menu_mov_eli">Eliminar</string>
+    <string name="menu_mov_edt">Editar</string>
+    <string name="mensaje_eliminar">Eliminar Movimiento</string>
+    <string name="mensaje_eliminar_categoria">Eliminar Categoria</string>
+    <string name="si">SI</string>
+    <string name="mov_eliminar_confirmacion">El Movimiento fue eliminado</string>
+    <string name="mov_eliminar_confirmacion_categoria">La categoria fue eliminada</string>
+    <string name="no">NO</string>
+    <string name="actualizarMov">Registro Actualizado de Manera Correcta</string>
+    <string name="opciones">Opciones</string>
+    <string name="importeVacio">El importe no puede estar vacio.</string>
+    <string name="tvFecha">Fecha</string>
+
+
+    <string name="sin_elementos">No hay datos para mostrar :(</string>
+
+
+    <string name="fcm_message">FCM Message</string>
+
+    <string name="editarCategorias">Editar Categorias</string>
+
+    <string name="nuevaCategoria">Nueva Categoria</string>
+
+
+    <string name="titulo">Nombre Categoria</string>
+    <string name="tipo">Tipo</string>
+
+    <string name="tituloVacio">El titulo no puede estar vacio.</string>
+
+    <string name="categoriaNueva">Categoria Agregada de Manera Correcta</string>
+
+    <string name="categoriaActualizada">La categoria se ha actualizado de manera correcta</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

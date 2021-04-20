@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_principal"
+        android:icon="@drawable/ic_home"
+        android:title="@string/MenuPrincipal" />
+
+    <item
+        android:id="@+id/navigation_graficos"
+        android:icon="@drawable/ic_pie_chart"
+        android:title="@string/MenuGraficos" />
+
+</menu>

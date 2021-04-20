@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="idapp" translatable="false">XXXXXXXX</string>
+    <string name="banner_prueba" translatable="false">XXXXXXXX</string>
+    <string name="banner_real" translatable="false">XXXXXXXX</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+
+</resources>

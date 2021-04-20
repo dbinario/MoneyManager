@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#80e27e</color>
+    <color name="colorPrimaryDark">#338a3e</color>
+    <color name="colorAccent">#98EE99</color>
+    <color name="colorDark">#4caf50</color>
+
+    <color name="colorGris">#ACAEAF</color>
+    <color name="colorAzulClaro">#4f9a94</color>
+    <color name="colorAzulClaroMov">#7975ABCE</color>
+    <color name="colorText">#000000</color>
+    <color name="colorIngreso">#3FC441</color>
+    <color name="colorEgreso">#EC0707</color>
+
+    <color name="colorFondo">#EDEFF5</color>
+
+</resources>
